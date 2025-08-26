@@ -1,0 +1,495 @@
+{
+  "IN": {
+    "delhi": {
+      "mea_office": {
+        "name": "MEA Apostille Division",
+        "address": "CPV Division, Patiala House, Tilak Marg, New Delhi 110001",
+        "coordinates": [28.6139, 77.2090],
+        "phone": "+91-11-23073122",
+        "email": "cpv@mea.gov.in",
+        "hours": {
+          "monday-friday": "09:30-18:00",
+          "saturday": "09:30-13:00",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 7,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.mea.gov.in/apostille.htm",
+        "fees": {
+          "standard": "₹50 per document",
+          "express": "₹100 per document"
+        }
+      }
+    },
+    "mumbai": {
+      "mea_office": {
+        "name": "MEA Regional Passport Office",
+        "address": "Mint Road, Fort, Mumbai 400001",
+        "coordinates": [18.9220, 72.8333],
+        "phone": "+91-22-22621025",
+        "email": "rpo_mumbai@mea.gov.in",
+        "hours": {
+          "monday-friday": "09:30-17:00",
+          "saturday": "09:30-13:00",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.mea.gov.in/apostille.htm",
+        "fees": {
+          "standard": "₹50 per document"
+        }
+      }
+    },
+    "kolkata": {
+      "mea_office": {
+        "name": "MEA Regional Passport Office",
+        "address": "7A, Shakespeare Sarani, Kolkata 700017",
+        "coordinates": [22.5626, 88.3630],
+        "phone": "+91-33-22881000",
+        "email": "rpo_kolkata@mea.gov.in",
+        "hours": {
+          "monday-friday": "09:30-17:00",
+          "saturday": "09:30-13:00",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 12,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.mea.gov.in/apostille.htm",
+        "fees": {
+          "standard": "₹50 per document"
+        }
+      }
+    },
+    "chennai": {
+      "mea_office": {
+        "name": "MEA Regional Passport Office",
+        "address": "76, Haddows Road, Chennai 600006",
+        "coordinates": [13.0827, 80.2707],
+        "phone": "+91-44-28542200",
+        "email": "rpo_chennai@mea.gov.in",
+        "hours": {
+          "monday-friday": "09:30-17:00",
+          "saturday": "09:30-13:00",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.mea.gov.in/apostille.htm",
+        "fees": {
+          "standard": "₹50 per document"
+        }
+      }
+    }
+  },
+  "MX": {
+    "mexico_city": {
+      "sre_office": {
+        "name": "Secretaría de Relaciones Exteriores",
+        "address": "Av. Paseo de la Reforma 305, Colonia Cuauhtémoc, 06500 Ciudad de México, CDMX",
+        "coordinates": [19.4326, -99.1332],
+        "phone": "+52 55 5080 4000",
+        "email": "contacto@sre.gob.mx",
+        "hours": {
+          "monday-friday": "09:00-15:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 5,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.sre.gob.mx",
+        "fees": {
+          "standard": "$575 MXN per document",
+          "express": "$1,150 MXN per document"
+        }
+      }
+    },
+    "guadalajara": {
+      "sre_office": {
+        "name": "Representación de México en Guadalajara",
+        "address": "Paseo de la Niños Héroes 2745, Col. Lomas del Sur, 45010 Zapopan, Jalisco",
+        "coordinates": [20.6597, -103.3496],
+        "phone": "+52 33 3617 2200",
+        "email": "representacion.guadalajara@sre.gob.mx",
+        "hours": {
+          "monday-friday": "09:00-15:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 7,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.sre.gob.mx",
+        "fees": {
+          "standard": "$575 MXN per document"
+        }
+      }
+    }
+  },
+  "CN": {
+    "beijing": {
+      "mofa_office": {
+        "name": "Ministry of Foreign Affairs",
+        "address": "No. 2 Chaoyangmen Nandajie, Chaoyang District, Beijing 100701",
+        "coordinates": [39.9075, 116.4177],
+        "phone": "+86 10 6596 2300",
+        "email": "service@mfa.gov.cn",
+        "hours": {
+          "monday-friday": "08:30-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.fmprc.gov.cn",
+        "fees": {
+          "standard": "¥50 per document",
+          "express": "¥100 per document"
+        }
+      }
+    },
+    "shanghai": {
+      "mofa_office": {
+        "name": "Shanghai Municipal Foreign Affairs Office",
+        "address": "1899 North Yangjin Road, Shanghai 200336",
+        "coordinates": [31.2304, 121.4737],
+        "phone": "+86 21 2201 1000",
+        "email": "shenban@fao.sh.gov.cn",
+        "hours": {
+          "monday-friday": "08:30-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 8,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://wsbs.sh.gov.cn",
+        "fees": {
+          "standard": "¥50 per document",
+          "express": "¥100 per document"
+        }
+      }
+    }
+  },
+  "PH": {
+    "manila": {
+      "dfa_office": {
+        "name": "Department of Foreign Affairs",
+        "address": "Roxas Boulevard, Pasay City, Metro Manila",
+        "coordinates": [14.5547, 120.9944],
+        "phone": "+63 2 8234 3391",
+        "email": "passport@dfa.gov.ph",
+        "hours": {
+          "monday-friday": "08:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 5,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.dfa.gov.ph",
+        "fees": {
+          "standard": "₱100 per document",
+          "express": "₱200 per document"
+        }
+      }
+    },
+    "cebu": {
+      "dfa_office": {
+        "name": "DFA Office Cebu",
+        "address": "S.N. Building, corner Maria Cristina St. & Don Mariano Cui St., Cebu City, 6000",
+        "coordinates": [10.3028, 123.8907],
+        "phone": "+63 32 255 3071",
+        "email": "consular.cebu@dfa.gov.ph",
+        "hours": {
+          "monday-friday": "08:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 7,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.dfa.gov.ph",
+        "fees": {
+          "standard": "₱100 per document"
+        }
+      }
+    }
+  },
+  "BR": {
+    "brasilia": {
+      "mre_office": {
+        "name": "Ministry of Foreign Affairs",
+        "address": "Esplanada dos Ministérios, Bloco H, Brasília - DF, 70170-900",
+        "coordinates": [-15.7975, -47.8922],
+        "phone": "+55 61 2030-9963",
+        "email": "coged@itamaraty.gov.br",
+        "hours": {
+          "monday-friday": "08:00-18:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 8,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.gov.br/mre",
+        "fees": {
+          "standard": "R$100 per document",
+          "express": "R$200 per document"
+        }
+      }
+    },
+    "sao_paulo": {
+      "mre_office": {
+        "name": "Delegacia do Itamaraty em São Paulo",
+        "address": "Av. Paulista, 1402 - Bela Vista, São Paulo - SP, 01310-914",
+        "coordinates": [-23.5617, -46.6557],
+        "phone": "+55 11 3177-8800",
+        "email": "delegacia.saopaulo@itamaraty.gov.br",
+        "hours": {
+          "monday-friday": "08:00-18:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.gov.br/mre",
+        "fees": {
+          "standard": "R$100 per document"
+        }
+      }
+    }
+  },
+  "NG": {
+    "abuja": {
+      "nigeria_embassy": {
+        "name": "Nigerian Embassy to the United Kingdom",
+        "address": "14 Aguiyi Ironsi Street, Maitama, Abuja, Nigeria",
+        "coordinates": [9.0820, 7.5021],
+        "phone": "+234 9 460 4444",
+        "email": "nigembuk@infoclub.com.ng",
+        "hours": {
+          "monday-friday": "08:30-16:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 7,
+        "express_service": true,
+        "online_submission": false,
+        "website": "https://nigeriaembassyuk.gov.ng",
+        "fees": {
+          "standard": "₦50,000 per document",
+          "express": "₦100,000 per document"
+        }
+      }
+    },
+    "lagos": {
+      "nigeria_embassy": {
+        "name": "Nigerian Consulate in Lagos",
+        "address": "Block D, Plot 143, Muhammadu Buhari Way, Central Business District, Lagos",
+        "coordinates": [6.4574, 3.3930],
+        "phone": "+234 1 270 1072",
+        "email": "info@nigeriaconsulate.gov.ng",
+        "hours": {
+          "monday-friday": "08:30-16:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": false,
+        "online_submission": false,
+        "website": "https://nigeriaconsulate.gov.ng",
+        "fees": {
+          "standard": "₦50,000 per document"
+        }
+      }
+    }
+  },
+  "PK": {
+    "islamabad": {
+      "mofa_office": {
+        "name": "Ministry of Foreign Affairs",
+        "address": "Sector H-8/1, Islamabad 44000",
+        "coordinates": [33.7111, 73.0614],
+        "phone": "+92 51 904 0000",
+        "email": "info@mofa.gov.pk",
+        "hours": {
+          "monday-friday": "09:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 12,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://mofa.gov.pk",
+        "fees": {
+          "standard": "₨5,000 per document",
+          "express": "₨10,000 per document"
+        }
+      }
+    },
+    "karachi": {
+      "mofa_office": {
+        "name": "Regional Passport Office Karachi",
+        "address": "Plot No. 1-A, Diplomatic Enclave, Clifton, Karachi 75600",
+        "coordinates": [24.8270, 67.0375],
+        "phone": "+92 21 3589 5126",
+        "email": "rpo.karachi@mofa.gov.pk",
+        "hours": {
+          "monday-friday": "09:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 15,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://mofa.gov.pk",
+        "fees": {
+          "standard": "₨5,000 per document"
+        }
+      }
+    }
+  },
+  "UA": {
+    "kyiv": {
+      "mofa_office": {
+        "name": "Ministry of Foreign Affairs of Ukraine",
+        "address": "Mykhailo Hrushevskyi Street, 12, Kyiv, Ukraine, 01008",
+        "coordinates": [50.4481, 30.5181],
+        "phone": "+380 44 239 1223",
+        "email": "mfa@mfa.gov.ua",
+        "hours": {
+          "monday-friday": "09:00-18:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://mfa.gov.ua",
+        "fees": {
+          "standard": "₴500 per document",
+          "express": "₴1,000 per document"
+        }
+      }
+    },
+    "lviv": {
+      "mofa_office": {
+        "name": "Lviv Regional Department of Foreign Affairs",
+        "address": "Svobody Ave, 24, Lviv, Ukraine, 79000",
+        "coordinates": [49.8419, 24.0316],
+        "phone": "+380 32 234 5678",
+        "email": "lviv@mfa.gov.ua",
+        "hours": {
+          "monday-friday": "09:00-18:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 12,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://mfa.gov.ua",
+        "fees": {
+          "standard": "₴500 per document"
+        }
+      }
+    }
+  },
+  "VE": {
+    "caracas": {
+      "mre_office": {
+        "name": "Ministry of Foreign Affairs",
+        "address": "Av. Universidad, Esq. Calle Páez, Plaza Venezuela, Caracas 1041, Distrito Capital",
+        "coordinates": [10.4910, -66.9027],
+        "phone": "+58 212 576 8800",
+        "email": "contacto@minci.gob.ve",
+        "hours": {
+          "monday-friday": "08:00-16:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 15,
+        "express_service": true,
+        "online_submission": false,
+        "website": "https://www.minci.gob.ve",
+        "fees": {
+          "standard": "Bs.S 500 per document",
+          "express": "Bs.S 1,000 per document"
+        }
+      }
+    },
+    "maracaibo": {
+      "mre_office": {
+        "name": "Regional Office of Foreign Affairs - Maracaibo",
+        "address": "Av. Universidad, Edif. Academias, Maracaibo 4001, Zulia",
+        "coordinates": [10.6545, -71.6139],
+        "phone": "+58 261 789 4561",
+        "email": "maracaibo@mre.gob.ve",
+        "hours": {
+          "monday-friday": "08:00-16:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 18,
+        "express_service": false,
+        "online_submission": false,
+        "website": "https://www.minci.gob.ve",
+        "fees": {
+          "standard": "Bs.S 500 per document"
+        }
+      }
+    }
+  },
+  "BD": {
+    "dhaka": {
+      "mofa_office": {
+        "name": "Ministry of Foreign Affairs",
+        "address": "198, Tejgaon Industrial Area, Dhaka 1208",
+        "coordinates": [23.7596, 90.3902],
+        "phone": "+880 2 9823791",
+        "email": "info@mofa.gov.bd",
+        "hours": {
+          "monday-friday": "09:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 10,
+        "express_service": true,
+        "online_submission": true,
+        "website": "https://www.mofa.gov.bd",
+        "fees": {
+          "standard": "৳500 per document",
+          "express": "৳1,000 per document"
+        }
+      }
+    },
+    "chittagong": {
+      "mofa_office": {
+        "name": "Regional Office of Foreign Affairs - Chittagong",
+        "address": "66-67, Jubilee Road, Chittagong 4000",
+        "coordinates": [22.3569, 91.7832],
+        "phone": "+880 31 2551123",
+        "email": "chittagong@mofa.gov.bd",
+        "hours": {
+          "monday-friday": "09:00-17:00",
+          "saturday": "closed",
+          "sunday": "closed"
+        },
+        "current_wait_time_days": 12,
+        "express_service": false,
+        "online_submission": true,
+        "website": "https://www.mofa.gov.bd",
+        "fees": {
+          "standard": "৳500 per document"
+        }
+      }
+    }
+  }
+}

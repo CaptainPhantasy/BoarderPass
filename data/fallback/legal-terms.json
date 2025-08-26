@@ -1,0 +1,242 @@
+[
+  {
+    "term": "apostille",
+    "language": "es",
+    "translation": "apostilla",
+    "context": "legal"
+  },
+  {
+    "term": "apostille",
+    "language": "fr",
+    "translation": "apostille",
+    "context": "legal"
+  },
+  {
+    "term": "apostille",
+    "language": "de",
+    "translation": "Apostille",
+    "context": "legal"
+  },
+  {
+    "term": "apostille",
+    "language": "pt",
+    "translation": "apostila",
+    "context": "legal"
+  },
+  {
+    "term": "apostille",
+    "language": "it",
+    "translation": "apostille",
+    "context": "legal"
+  },
+  {
+    "term": "notarization",
+    "language": "es",
+    "translation": "notarización",
+    "context": "legal"
+  },
+  {
+    "term": "notarization",
+    "language": "fr",
+    "translation": "notarisation",
+    "context": "legal"
+  },
+  {
+    "term": "notarization",
+    "language": "de",
+    "translation": "Beglaubigung",
+    "context": "legal"
+  },
+  {
+    "term": "notarization",
+    "language": "pt",
+    "translation": "notarização",
+    "context": "legal"
+  },
+  {
+    "term": "notarization",
+    "language": "it",
+    "translation": "notarizzazione",
+    "context": "legal"
+  },
+  {
+    "term": "certified copy",
+    "language": "es",
+    "translation": "copia certificada",
+    "context": "legal"
+  },
+  {
+    "term": "certified copy",
+    "language": "fr",
+    "translation": "copie certifiée",
+    "context": "legal"
+  },
+  {
+    "term": "certified copy",
+    "language": "de",
+    "translation": "beglaubigte Kopie",
+    "context": "legal"
+  },
+  {
+    "term": "certified copy",
+    "language": "pt",
+    "translation": "cópia autenticada",
+    "context": "legal"
+  },
+  {
+    "term": "certified copy",
+    "language": "it",
+    "translation": "copia certificata",
+    "context": "legal"
+  },
+  {
+    "term": "power of attorney",
+    "language": "es",
+    "translation": "poder notarial",
+    "context": "legal"
+  },
+  {
+    "term": "power of attorney",
+    "language": "fr",
+    "translation": "procuration",
+    "context": "legal"
+  },
+  {
+    "term": "power of attorney",
+    "language": "de",
+    "translation": "Vollmacht",
+    "context": "legal"
+  },
+  {
+    "term": "power of attorney",
+    "language": "pt",
+    "translation": "procuração",
+    "context": "legal"
+  },
+  {
+    "term": "power of attorney",
+    "language": "it",
+    "translation": "procura",
+    "context": "legal"
+  },
+  {
+    "term": "affidavit",
+    "language": "es",
+    "translation": "declaración jurada",
+    "context": "legal"
+  },
+  {
+    "term": "affidavit",
+    "language": "fr",
+    "translation": "affidavit",
+    "context": "legal"
+  },
+  {
+    "term": "affidavit",
+    "language": "de",
+    "translation": "eidesstattliche Erklärung",
+    "context": "legal"
+  },
+  {
+    "term": "affidavit",
+    "language": "pt",
+    "translation": "declaração juramentada",
+    "context": "legal"
+  },
+  {
+    "term": "affidavit",
+    "language": "it",
+    "translation": "dichiarazione giurata",
+    "context": "legal"
+  },
+  {
+    "term": "birth certificate",
+    "language": "es",
+    "translation": "certificado de nacimiento",
+    "context": "legal"
+  },
+  {
+    "term": "birth certificate",
+    "language": "fr",
+    "translation": "acte de naissance",
+    "context": "legal"
+  },
+  {
+    "term": "birth certificate",
+    "language": "de",
+    "translation": "Geburtsurkunde",
+    "context": "legal"
+  },
+  {
+    "term": "marriage certificate",
+    "language": "es",
+    "translation": "certificado de matrimonio",
+    "context": "legal"
+  },
+  {
+    "term": "marriage certificate",
+    "language": "fr",
+    "translation": "acte de mariage",
+    "context": "legal"
+  },
+  {
+    "term": "marriage certificate",
+    "language": "de",
+    "translation": "Heiratsurkunde",
+    "context": "legal"
+  },
+  {
+    "term": "death certificate",
+    "language": "es",
+    "translation": "certificado de defunción",
+    "context": "legal"
+  },
+  {
+    "term": "death certificate",
+    "language": "fr",
+    "translation": "acte de décès",
+    "context": "legal"
+  },
+  {
+    "term": "death certificate",
+    "language": "de",
+    "translation": "Sterbeurkunde",
+    "context": "legal"
+  },
+  {
+    "term": "diploma",
+    "language": "es",
+    "translation": "diploma",
+    "context": "legal"
+  },
+  {
+    "term": "diploma",
+    "language": "fr",
+    "translation": "diplôme",
+    "context": "legal"
+  },
+  {
+    "term": "diploma",
+    "language": "de",
+    "translation": "Diplom",
+    "context": "legal"
+  },
+  {
+    "term": "transcript",
+    "language": "es",
+    "translation": "expediente académico",
+    "context": "legal"
+  },
+  {
+    "term": "transcript",
+    "language": "fr",
+    "translation": "relevé de notes",
+    "context": "legal"
+  },
+  {
+    "term": "transcript",
+    "language": "de",
+    "translation": "Zeugnis",
+    "context": "legal"
+  }
+]

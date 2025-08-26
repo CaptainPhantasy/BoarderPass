@@ -1,0 +1,133 @@
+[
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "document_types": [
+      "degree",
+      "transcript"
+    ],
+    "apostille_required": true,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Transcripts for all years",
+      "Medium of instruction letter",
+      "Official transcripts from all institutions attended",
+      "Sealed envelopes from issuing institutions"
+    ],
+    "processing_time": "15 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "CA",
+    "country_name": "Canada",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": true,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "Chinese to English translation"
+    ],
+    "processing_time": "14 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": false,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "NSO authentication"
+    ],
+    "processing_time": "8 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": true,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "Proof of ancestry (if applicable)"
+    ],
+    "processing_time": "12 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": false,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "National Youth Service Corps (NYSC) certificate"
+    ],
+    "processing_time": "10 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "PL",
+    "country_name": "Poland",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": false,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "Ukrainian Ministry of Education authentication"
+    ],
+    "processing_time": "14 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "ES",
+    "country_name": "Spain",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": true,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "Ministry of Education authentication"
+    ],
+    "processing_time": "12 days",
+    "validity_period": "No expiry for educational documents"
+  },
+  {
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "document_types": [
+      "degree"
+    ],
+    "apostille_required": false,
+    "translation_required": true,
+    "additional_requirements": [
+      "Original degree certificate",
+      "Official transcripts",
+      "University attestation"
+    ],
+    "processing_time": "10 days",
+    "validity_period": "No expiry for educational documents"
+  }
+]
