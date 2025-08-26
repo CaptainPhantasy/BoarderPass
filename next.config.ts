@@ -10,8 +10,29 @@ const nextConfig: NextConfig = {
     optimizePackageImports: ['pdf-lib', 'tesseract.js'],
   },
 
-  // Webpack optimizations
+  // Turbopack configuration
+  turbopack: {
+    // Specify root directory to resolve multiple lockfile warning
+    root: '/Volumes/Storage/Development/boarderpass/borderpass',
+    
+    // Module resolution aliases
+    resolveAlias: {
+      // Optimize large dependencies
+      '@supabase/supabase-js': '@supabase/supabase-js',
+      'pdf-lib': 'pdf-lib',
+      'tesseract.js': 'tesseract.js',
+    },
+    
+    // File extensions to resolve
+    resolveExtensions: ['.tsx', '.ts', '.jsx', '.js', '.json', '.css'],
+  },
+
+  // Webpack optimizations (only when not using Turbopack)
   webpack: (config, { dev, isServer }) => {
+    // Skip webpack optimizations when using Turbopack
+    if (process.env.NEXT_DEV_TURBOPACK) {
+      return config;
+    }
     // Production optimizations
     if (!dev) {
       // Enable tree shaking
